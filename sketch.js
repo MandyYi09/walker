@@ -1,8 +1,8 @@
 /////config/////
 const stepSize = 6
-const stepsPerFrame = 1000
+const stepsPerFrame = 120
 const colorShift = 5
-const speed = 20
+const speed = 100
 
 ////globals////
 let x,y
