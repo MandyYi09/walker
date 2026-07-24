@@ -62,8 +62,8 @@ function step() {
     newR = 0
   } 
 
-  if(newR > 255) {
-    newR = 255
+  if(newR > 200) {
+    newR = 200
   }
 
 
@@ -71,16 +71,16 @@ function step() {
     newG = 0
   } 
 
-  if(newG > 255) {
-    newG = 255
+  if(newG > 200) {
+    newG = 200
   }
 
   if(newB<0) {
     newB = 0
   } 
 
-  if(newB > 255) {
-    newB = 255
+  if(newB > 200) {
+    newB = 200
   }
 
   
